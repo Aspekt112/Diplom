@@ -1,1 +1,1 @@
-# diplom
+# Master Dissertation / BMSTU
